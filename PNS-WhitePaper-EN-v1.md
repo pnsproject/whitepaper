@@ -1,4 +1,4 @@
-# 白皮书英文版 PNS White Paper v1.1
+# PNS White Paper EN v1.1
 
 # **About PNS**
 
