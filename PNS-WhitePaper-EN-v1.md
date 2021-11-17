@@ -23,7 +23,7 @@ Offer customers with a decentralized digital identity, an infrastructure based o
 - Domain names can be registered, modified, queried, and transacted on the parachains [PNS can be accessed without the need of using a specific token]
 - Couple a variety of resolving mechanisms into a single unit of the protocol
 
-[Multi-resolver mechanism supported](https://www.notion.so/537dd304053343e69ef824c246095e37)
+Multi-resolver mechanism supported
 
 - Allow browsers to access directly through the DNS/DNS-over-HTTPS protocol
 - A set of and multi-level subdomains can be created to map the domain hierarchy and the dependency relationships between entities
